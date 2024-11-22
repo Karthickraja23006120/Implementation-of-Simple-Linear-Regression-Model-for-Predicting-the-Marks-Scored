@@ -59,22 +59,24 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
-## Output:
-### Dataset
-![output](./images/dataset.png)
-### Head Values
-![output](./images/head.png)
-### Tail Values
-![output](./images/tail.png)
-### X and Y values
-![output](./images/xyvalues.png)
-### Predication values of X and Y
-![output](./images/predict%20.png)
-### MSE,MAE and RMSE
-![output](./images/values.png)
-### Training Set
-![output](./images/train.png)
-### Testing Set
-![output](./images/test.png)
+## OUTPUT:
+
+![ml4](https://user-images.githubusercontent.com/94222288/200177597-e6ff825e-710a-40ec-842d-50233234b4d3.png)
+
+![mlh](https://user-images.githubusercontent.com/94222288/203804680-9b787e90-79ac-4ddf-a9d8-ec03b8b88ad2.png)
+
+![mlt](https://user-images.githubusercontent.com/94222288/203804727-227f8f8c-d13f-4904-9a3e-df48a2f8e84f.png)
+
+
+![ml5](https://user-images.githubusercontent.com/94222288/200177609-a5c4987a-11fa-4426-92a8-aced68c0eb61.png)
+
+![ml7](https://user-images.githubusercontent.com/94222288/200177616-98277779-5896-480e-b9ca-702efb43b4de.png)
+
+
+![ml8](https://user-images.githubusercontent.com/94222288/200177622-f15e4f5e-0163-47f1-80b2-936d0fd1d347.png)
+
+![ml9](https://user-images.githubusercontent.com/94222288/200177626-8323e106-b6de-4688-8186-47e015923feb.png)
+
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
